@@ -1,0 +1,2 @@
+# NgOqu
+Quran Surahs Analyses
