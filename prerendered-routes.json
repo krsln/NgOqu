@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/",
+    "/Home",
+    "/Home/Surah",
+    "/Home/Test"
+  ]
+}
